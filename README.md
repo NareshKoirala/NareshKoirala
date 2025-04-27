@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a software developer, data scientist, student and syst
 
 ## 🛠 Skills
 
-Languages: C#, C, Python, HTML, CSS, PHP, JavaScript]  
+Languages: C#, C, Python, HTML, CSS, PHP, JavaScript
 Frameworks/Tools: ASP.Net Core, Blazor, jQuery  
 Other: Git, Linux, SQL
 
