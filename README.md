@@ -1,4 +1,5 @@
-👋 Hey, I'm Naresh Prasad KOirala!
+#👋 Hey, I'm Naresh Prasad Koirala!
+
 Welcome to my GitHub! I'm a software developer, data scientist, student and system designer, passionate about building web apps, AI, and embedded systems. I love tinkering with code, solving problems, and sharing what I learn.
 🌍 Based in Edmonton, Canada 📫 Reach me at [chelseanaresh10@gmail.com]
 
@@ -18,7 +19,7 @@ Other: Git, Linux, SQL
 
 🤝 Let's Connect!
 
-- [Portfolio](nareshkoirala.github.io/MineRepo)
+- [Portfolio](https://nareshkoirala.github.io/MineRepo/)
 - [LinkedIn](https://www.linkedin.com/in/naresh-koirala-6205582b3/)
 
 Thanks for stopping by! Feel free to check out my repos or drop me a message. 😄
