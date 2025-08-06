@@ -19,7 +19,8 @@ Welcome to my GitHub! I'm a software developer, data scientist, student and syst
 
 ## 🤝 Let's Connect!
 
-- [Portfolio](https://nareshkoirala.github.io/MineRepo/)
+- [Portfolio]([https://nareshkoirala.github.io/MineRepo/](https://www.nareshkoirala.dev/))
 - [LinkedIn](https://www.linkedin.com/in/naresh-koirala-6205582b3/)
 
 Thanks for stopping by! Feel free to check out my repos or drop me a message. 😄
+
