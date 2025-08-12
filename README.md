@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 - Python, C#, C, JavaScript, PHP, HTML, CSS
 
 ### Frameworks & Tools
-- ASP.NET Core, Blazor, React, jQuery
+- ASP.NET Core, Blazor, React, jQuery, Next.js
 - Git, Linux, SQL, Docker
 
 ### Interests
@@ -29,11 +29,10 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 ---
 
 ## 📊 GitHub Stats
-### Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=NareshKoirala&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Naresh's GitHub Stats" width="45%" align="left"/>
-
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NareshKoirala&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshKoirala&theme=radical&hide_border=true" alt="Naresh's GitHub Streak" width="45%"/>
+
+*Note: Streak updates may take a few hours due to GitHub API delays.*
 
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKoirala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
