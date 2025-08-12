@@ -37,8 +37,6 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 
 ### Profile Stats
 
-![Naresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NareshKoirala&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)\### Contribution Streak
-
 ![Naresh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NareshKoirala&theme=radical&hide_border=true)\### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKoirala&layout=compact&theme=radical&hide_border=true)\---
@@ -62,3 +60,4 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 ---
 
 Thanks for visiting! Feel free to explore my repos, star ⭐ a project, or drop me a message. Let's build something amazing together! 😄
+
