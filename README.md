@@ -5,9 +5,8 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 ---
 
 ## 🌟 About Me
-
 - 🌍 **Location**: Edmonton, Canada
-- 📫 **Email**: chelseanaresh10@gmail.com
+- 📫 **Email**: [chelseanaresh10@gmail.com](mailto:chelseanaresh10@gmail.com)
 - 🔍 **Currently Exploring**: Python automation, React.js, and system design
 - 📚 **Learning**: Large Language Models (LLMs), Neural Networks, Rust, and Cloud Computing
 - 💡 **Fun Fact**: I enjoy experimenting with new tech stacks and contributing to open-source projects!
@@ -15,18 +14,14 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 ---
 
 ## 🛠️ Tech Stack
-
 ### Languages
-
 - Python, C#, C, JavaScript, PHP, HTML, CSS
 
 ### Frameworks & Tools
-
 - ASP.NET Core, Blazor, React, jQuery
 - Git, Linux, SQL, Docker
 
 ### Interests
-
 - AI & Machine Learning
 - Embedded Systems
 - Cloud Architecture
@@ -34,16 +29,19 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 ---
 
 ## 📊 GitHub Stats
-
 ### Profile Stats
+<img src="https://github-readme-stats.vercel.app/api?username=NareshKoirala&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Naresh's GitHub Stats" width="45%" align="left"/>
 
-![Naresh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NareshKoirala&theme=radical&hide_border=true)\### Top Languages
+### Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NareshKoirala&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKoirala&layout=compact&theme=radical&hide_border=true)\---
+### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKoirala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
+
+---
 
 ## 🚀 Featured Projects
-
-- **Portfolio Website**: A showcase of my work built with React and Tailwind CSS.
+- **[Portfolio Website](https://www.nareshkoirala.dev/)**: A showcase of my work built with React and Tailwind CSS.
 - **Python Automation Scripts**: Streamlining workflows with Python for efficiency.
 - **Embedded System Prototypes**: Experiments with IoT and microcontroller programming.
 
@@ -52,12 +50,10 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 ---
 
 ## 🤝 Connect with Me
-
-- 🌐 Portfolio
-- 💼 LinkedIn
-- 📧 Email
+- 🌐 [Portfolio](https://www.nareshkoirala.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naresh-koirala-6205582b3/)
+- 📧 [Email](mailto:chelseanaresh10@gmail.com)
 
 ---
 
 Thanks for visiting! Feel free to explore my repos, star ⭐ a project, or drop me a message. Let's build something amazing together! 😄
-
