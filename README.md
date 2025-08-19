@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 *Note: Streak updates may take a few hours due to GitHub API delays.*
 
 ### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKoirala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKoirala&layout=compact&theme=radical&hide_border=true&exclude_repo=SpO2-Monitoring-System-Design" alt="Top Languages" width="45%"/>
 
 ---
 
@@ -56,3 +56,4 @@ Welcome to my GitHub! I'm a passionate **software developer**, **data scientist*
 ---
 
 Thanks for visiting! Feel free to explore my repos, star ⭐ a project, or drop me a message. Let's build something amazing together! 😄
+
