@@ -1,59 +1,46 @@
-# 👋 Hello, I'm Naresh Prasad Koirala!
+# 👋 Hi, I'm Naresh Prasad Koirala
 
-Welcome to my GitHub! I'm a passionate **software developer**, **data scientist**, and **system designer** based in Edmonton, Canada. I love crafting innovative **web apps**, diving into **AI**, and building **embedded systems**. My journey is all about solving problems, tinkering with code, and sharing knowledge.
+Software Developer with experience building **backend APIs, automation tools, full-stack applications, and embedded systems**. Currently focused on expanding my Python skillset for **automation, backend services, and systems integration**.
 
----
-
-## 🌟 About Me
-- 🌍 **Location**: Edmonton, Canada
-- 📫 **Email**: [chelseanaresh10@gmail.com](mailto:chelseanaresh10@gmail.com)
-- 🔍 **Currently Exploring**: Python automation, React.js, and system design
-- 📚 **Learning**: Large Language Models (LLMs), Neural Networks, Rust, and Cloud Computing
-- 💡 **Fun Fact**: I enjoy experimenting with new tech stacks and contributing to open-source projects!
+Based in Edmonton, Canada.
 
 ---
 
-## 🛠️ Tech Stack
-### Languages
-- Python, C#, C, JavaScript, PHP, HTML, CSS
-
-### Frameworks & Tools
-- ASP.NET Core, Blazor, React, jQuery, Next.js
-- Git, Linux, SQL, Docker
-
-### Interests
-- AI & Machine Learning
-- Embedded Systems
-- Cloud Architecture
+## 🔧 What I Work On
+- Backend development (Python, .NET, REST APIs)
+- Automation & data processing with Python
+- Full-stack web applications (React, Next.js)
+- Embedded & hardware-software integration
 
 ---
 
-## 📊 GitHub Stats
-### Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshKoirala&theme=radical&hide_border=true" alt="Naresh's GitHub Streak" width="45%"/>
-
-*Note: Streak updates may take a few hours due to GitHub API delays.*
-
-### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKoirala&layout=compact&theme=radical&hide_border=true&exclude_repo=SpO2-Monitoring-System-Design" alt="Top Languages" width="45%"/>
+## 🛠 Tech Stack
+**Languages:** Python, C#, C, JavaScript, SQL  
+**Backend:** FastAPI, ASP.NET Core  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Tools:** Git, Docker, Linux, CI/CD  
+**Embedded:** STM32, MicroPython, hardware integration
 
 ---
 
 ## 🚀 Featured Projects
-- **[Portfolio Website](https://www.nareshkoirala.dev/)**: A showcase of my work built with React and Tailwind CSS.
-- **Python Automation Scripts**: Streamlining workflows with Python for efficiency.
-- **Embedded System Prototypes**: Experiments with IoT and microcontroller programming.
+- **Python Automation Toolkit** — File processing, data cleanup, and task automation
+- **Python FastAPI Backend** — REST API with database integration
+- **Resume Builder System** — Full-stack system with API, web, and mobile apps
+- **Embedded Systems Projects** — STM32 firmware and hardware integration
 
-*Check out my repositories below for more!*
-
----
-
-## 🤝 Connect with Me
-- 🌐 [Portfolio](https://www.nareshkoirala.dev/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/naresh-koirala-6205582b3/)
-- 📧 [Email](mailto:chelseanaresh10@gmail.com)
+(Each repo includes setup instructions and architecture notes.)
 
 ---
 
-Thanks for visiting! Feel free to explore my repos, star ⭐ a project, or drop me a message. Let's build something amazing together! 😄
+## 🎯 Current Focus
+- Python automation & backend development
+- FastAPI + database-backed services
+- Building production-style Python projects
 
+---
+
+## 🔗 Links
+- Portfolio: https://www.nareshkoirala.dev
+- LinkedIn: https://www.linkedin.com/in/naresh-koirala-6205582b3/
+- Email: chelseanaresh10@gmail.com
