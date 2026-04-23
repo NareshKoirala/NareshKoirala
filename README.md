@@ -39,7 +39,7 @@
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshKoirala&theme=tokyonight" alt="mystreak"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NareshKoirala&show_icons=true&locale=en&theme=tokyonight&exclude_repo=Computer-Engineering-Technology-Coursework&layout=compact" alt="toplangs"/>
 </p>
 
 ---
